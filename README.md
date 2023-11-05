@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/sumona7005?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumona-shawon">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumonashawon">
   </a>
 </p>
 
